@@ -7,3 +7,4 @@ A simple project for monitoring Linux servers.
 - Health-check script
 - Monitoring configuration
 Server monitoring project
+Health check documentation
